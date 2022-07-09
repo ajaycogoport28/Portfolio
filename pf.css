@@ -1,0 +1,130 @@
+body{
+     background-color:#f6f6f6;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mulish', sans-serif;
+    margin:0;
+    padding: 0;
+}
+
+/* Navbar */
+.top_fix,.navbar1
+{
+    position:fixed;
+    top:0;
+    right: 0;
+    left: 0;
+    margin:0;
+    background-color:white;
+}
+.navhome
+{
+    margin-left:47.5px;
+}
+.navitem1
+{
+    margin-left: 30px;    
+}
+
+/* Home */
+.home1
+{
+    justify-content: center;
+    margin:45px 0;
+}
+
+
+.home11
+{
+    padding:180px 0;
+    /* border: 1px solid #f6f6f6; */
+}
+
+.Hey_span
+{
+    /* color:#DF7861; */
+    color:orangered;
+}
+.profilep
+{
+    color: #06283D;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Mulish', sans-serif;
+font-size:30px;
+}
+.home_container
+{
+    /* background-image: url(https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg?q=50&fit=contain&w=1500&h=750&dpr=1.5); */
+    background-color:#C6DCE4;
+}
+.button1{
+    font-family: 'Montserrat', sans-serif;
+    background-color:#DF7861;
+    border:1px solid #06283D;
+    border-radius:10px;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+/* About */
+
+/* Contacts */
+.contactcont
+{
+    padding:20px;
+}
+.contact11
+{
+    border: 1px solid black;
+    padding:70px 50px;
+}
+
+.form11
+{
+    padding:20px 10px;
+    border:none ;
+}
+
+.form1st
+{
+    border:1px solid black;
+}
+input
+{
+    width: 50%;
+    /* border-radius: 0; */
+}
+
+.contsection
+{
+    background-color:#F9F9F9;
+}
+
+.formstyle
+{
+    border:none;
+    padding:15px 25px;
+    width:100%;
+}
+
+/* Footer */
+.footer1
+{
+    background-color:#C6DCE4;
+    color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+.about1{
+    padding-top:60px;
+}
+
+.contact11
+{
+    color:rgb(128, 135, 141);
+}
